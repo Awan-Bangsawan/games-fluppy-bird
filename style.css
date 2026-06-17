@@ -1,0 +1,7 @@
+body{
+    font-family:'Courier new',Courier,monospace;
+    text-align: center;
+}
+#board{
+    background-image: url("./image/flappybirdbg.png");
+}
